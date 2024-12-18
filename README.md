@@ -1,3 +1,6 @@
+# React-Redan-Portfolio
+Redan Portfolio is just a simple design company profile application, made in React and Vite
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
